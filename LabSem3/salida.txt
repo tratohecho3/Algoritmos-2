@@ -1,0 +1,13 @@
+A Logical Approach to Discrete Math	Gries
+Apuntes de Discretas III	Castellanos
+Introduction to Algorithms	Cormen
+Laminas de Algoritmos y Estructuras de Datos II	Bonet
+Learning Python	Mart
+Style Guide for Python Code	Guido
+                                       
+Bonet	Laminas de Algoritmos y Estructuras de Datos II
+Castellanos	Apuntes de Discretas III
+Cormen	Introduction to Algorithms
+Gries	A Logical Approach to Discrete Math
+Guido	Style Guide for Python Code
+Mart	Learning Python
